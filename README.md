@@ -1,11 +1,13 @@
 # CSE151A-Project
 
-install pip install gdown
-https://drive.google.com/file/d/1YE64oUNrTFDZcBJ_lK8mXtY0qImjjwyQ/view?usp=drive_link
+## Requirements
+pip install -r requirement.txt
 
-# Beer Review Prediction
+## Beer Review Prediction
 
 This project aims to predict the average review/overall score of each specific beer based on various features. The dataset contains information about different beers, including their ABV, style, and review scores in different aspects.
+
+Our analysis is done through [data_exploration.ipynb](https://github.com/jil258/CSE151A-Project/blob/Milestone_3/data_exploration.ipynb)
 
 
 ## Data Exploration
@@ -42,8 +44,19 @@ Out dataset is the tabular data, soscatter plots will be used to visualize the r
 
 The details of the above steps will be provided in the Jupyter Notebook.
 
+Raw data can be found here:
+[raw_data.csv](https://drive.google.com/file/d/1YE64oUNrTFDZcBJ_lK8mXtY0qImjjwyQ/view?usp=drive_link)
+
+Cleaned data set can be found here [cleaned_numeric_data.csv](https://github.com/jil258/CSE151A-Project/blob/Milestone_3/cleaned_numeric_data.csv)
+
 ### Running the Project
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/jil258/CSE151A-Project.git
+
+2. Download the data from google drive. (this step is included in the script) Preprocess and explore the data. 
+3. Running Linear Regression to predict overall score using all 5 other numeric features.
+
+### Recent update from Milestone 2
+We did linear regression to predict overall rating using other 5 numeric features (ABV, appearance, aroma, palate, taste)
