@@ -1,5 +1,5 @@
 4: Answer the questions: Where does your model fit in the fitting graph? and What are the next models you are thinking of and why?
-   Next model, we can try the XGboost and the DNN.
+   By looking at the difference between the actual and predicted y, we can conclude that our model is on the right track. Next model, we can try the XGboost and the DNN to make it even better.
   
 6. Conclusion section: What is the conclusion of your 1st model? What can be done to possibly improve it?
    Our first model is the linear regression with five features. The features includes:{}.
