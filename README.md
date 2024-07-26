@@ -39,7 +39,7 @@ Out dataset is the tabular data, soscatter plots will be used to visualize the r
 1. Scaling numeric features.
 2. Encoding categorical features.
 3. Splitting the dataset into training and testing sets.
-4. Finding the average review of the overall score for each identical beerID in testing sets.
+4. Finding the average review of the overall score for each identical beer in testing sets.
 
 The details of the above steps will be provided in the Jupyter Notebook.
 
