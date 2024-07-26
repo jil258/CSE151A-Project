@@ -25,12 +25,11 @@ The dataset contains the following columns:
 
 ## Data Description
 
-- Number of observations: 
-- Data distributions: [Describe the distributions, e.g., normal, skewed]
-- Scales: [Specify if any columns need scaling]
+- Number of observations: 2785525
+- Data distributions: left skewed
 - Missing data: There is no missing data in the provided dataset
-- Column descriptions: [Provide a brief description of each column]
-
+- Column descriptions: as showed aboved
+  
 ## Data Visualization
 
 Out dataset is the tabular data, soscatter plots will be used to visualize the relationships between different features and the target variable (average review of the overall score). 
