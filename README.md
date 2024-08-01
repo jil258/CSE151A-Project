@@ -40,9 +40,6 @@ Out dataset is the tabular data, so scatter plots will be used to visualize the 
 1. Scaling numeric features.
 2. Encoding categorical features.
 3. Splitting the dataset into training and testing sets.
-4. Finding the average review of the overall score for each identical beer in testing sets.
-
-The details of the above steps will be provided in the Jupyter Notebook.
 
 Raw data can be found here:
 [raw_data.csv](https://drive.google.com/file/d/1YE64oUNrTFDZcBJ_lK8mXtY0qImjjwyQ/view?usp=drive_link)
