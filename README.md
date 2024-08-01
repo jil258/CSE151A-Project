@@ -63,4 +63,4 @@ We did linear regression to predict overall rating using other 5 numeric feature
 
 
 ### Written Report
-[Final Report]
+[Final Report](https://github.com/jil258/CSE151A-Project/blob/main/CSE151A_Final_Report.pdf)
