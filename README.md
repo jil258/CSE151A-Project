@@ -58,6 +58,6 @@ Cleaned data set can be found here [cleaned_numeric_data.csv](https://github.com
 3. Running Linear Regression to predict overall score using all 5 other numeric features.
 
 ### Recent update from Milestone 2
-We did linear regression to predict overall rating using other 5 numeric features (ABV, appearance, aroma, palate, taste)
-Add a new conclusion file.
+We did linear regression to predict overall rating using other 5 numeric features (ABV, appearance, aroma, palate, taste)    
+  Add a new conclusion file.
 [Conclusion section.md](https://github.com/jil258/CSE151A-Project/blob/main/Conclusion%20section.md)
