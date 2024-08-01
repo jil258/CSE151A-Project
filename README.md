@@ -5,8 +5,7 @@ pip install -r requirement.txt
 
 ## Beer Review Prediction
 
-This project aims to predict the average review/overall score of each specific beer based on various features. The dataset contains information about different beers, including their ABV, style, and review scores in different aspects.
-
+In this project, we predict the overall score of the beer based on Alcohol By Volume (ABV), appearance, aroma, palate, and taste using different machine-learning models. We will begin by building up from a simple linear regression model to establish a reasonable first-pass performance baseline, leveraging advanced techniques in careful data preprocessing and modeling over the steps that follow.  This repository documents our methodology, findings, and insights, providing a foundation for future research and improvements in predictive modeling for beer ratings.
 Our analysis is done through [data_exploration.ipynb](https://github.com/jil258/CSE151A-Project/blob/Milestone_3/data_exploration.ipynb)
 
 
